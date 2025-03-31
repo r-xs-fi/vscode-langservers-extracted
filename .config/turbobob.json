@@ -1,0 +1,12 @@
+{
+	"for_description_of_this_file_see": "https://github.com/function61/turbobob",
+	"version_major": 1,
+	"project_name": "vscode-langservers-extracted",
+	"meta": {
+		"description": "Container image for vscode-langservers-extracted - HTML/CSS/JSON/ESLint language servers extracted from vscode.",
+		"website": "https://github.com/hrsh7th/vscode-langservers-extracted"
+	},
+	"docker_images": [
+		{ "image": "ghcr.io/r-xs-fi/vscode-langservers-extracted", "platforms": ["linux/amd64", "linux/arm64", "linux/arm/v7", "linux/riscv64"], "tag_latest": true }
+	]
+}

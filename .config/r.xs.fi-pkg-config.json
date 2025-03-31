@@ -1,0 +1,20 @@
+{
+	"usage_examples": [
+		{
+			"title": "JSON language server",
+			"cmd": "vscode-json-language-server --stdio",
+			"docker_opts": []
+		},
+		{
+			"title": "CSS language server",
+			"cmd": "vscode-css-language-server --stdio",
+			"docker_opts": []
+		},
+		{
+			"title": "HTML language server",
+			"cmd": "vscode-html-language-server --stdio",
+			"docker_opts": []
+		}
+	],
+	"supply_chain_descriptor": "npm-package:vscode-langservers-extracted"
+}
